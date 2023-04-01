@@ -1,0 +1,15 @@
+
+.blueButton,
+.orangeButton {
+  font-family: Helvetica, "Times New Roman", sans-serif;
+  font-size: 28px;
+}
+
+.blueButton {
+  background-color: black;
+  color: white;
+}
+
+.orangeButton {
+  background-color: yellow;
+}
