@@ -13,3 +13,12 @@
   width: 80px;
   height: 80px;
 }
+
+.container{
+  display: flex;
+  /* This is used to center the div vertically */
+  align-items: center;
+  /* This is used to center the div horizontally */
+  justify-content: center;
+
+}
